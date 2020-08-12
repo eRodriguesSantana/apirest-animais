@@ -18,6 +18,7 @@
 <ul>
   <li>Backend:
     <ol>
+      <li>Feito deploy no Heroku</li>
       <li>Linguagem de Programação Java 8</li>
       <li>Framework Spring Boot 2.3.2 com as seguintes dependências:
         <ol>
